@@ -186,11 +186,18 @@ li a:hover{
 }
 
 
+p {
+	line-height:23px;
+	padding-top:1%;
+
+}
+
+
 .div_about{
 	height: auto;
 	width: auto;
 	background-color: rgba(0,0,0,0);
-	margin-top: 15%;
+	margin-top: 8%;
 	color:#B1B1B1;
 	text-decoration: none;
 	text-align: center;
@@ -204,15 +211,17 @@ li a:hover{
 .about_content{
 	height: 100px;
 	width: 60%;
-	background-color: rgba(0,0,0,0);
+	background-color: none;
 	margin-top: 5%;
 	color:#7C7C7C;
 	text-decoration: none;
 	font-family: 'Roboto', sans-serif;
-	font-size:15;
+	font-size:13px;
 	position:relative;
 	margin-left:auto;
 	margin-right:auto;
+	border:hidden;
+	margin-bottom:45%;
 }
 
 .img_gallery {
@@ -224,15 +233,12 @@ li a:hover{
 }
 
 .desc {
-   padding: 15px;
-   text-align: center;
-   font-family: 'Roboto', sans-serif;
+   padding:30px;
    font-size:13px;
    color:#8B8A8A;
+   text-align:center;
+   font-family: 'Roboto', sans-serif;
 }
-
-
-
 
 
 .img_container { 
@@ -248,7 +254,8 @@ li a:hover{
 
 .col-3 {
 	 float: left; 
-	 width: 30.8%; 
+	 width: 30.8%;
+	 height:25%;
 	 margin-right: 3.8%;
 	 margin-top:1%;
 	 opacity:1;
@@ -320,13 +327,29 @@ li a:hover{
 	width:auto;
 	height:100%;
 }
+.artist_page_name_2{
+	background-color: rgba(0,0,0,0);
+	color:#B1B1B1;
+	text-decoration: none;
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	font-size:20px;
+    float:left;
+	margin-top:10%;
+	width:auto;
+	height:100%;
+}
 
 .artist_page_name:hover, a:visited, a:link, a:active {
     text-decoration: none;
 }
 
+.artist_page_name_2:hover, a:visited, a:link, a:active {
+    text-decoration: none;
+}
+
 .artist_page_name:hover{
-	opacity: 0.7;
+	opacity:0.7;
 	text-decoration: none !important;
 }
 
@@ -340,6 +363,28 @@ li a:hover{
 	font-family: 'Roboto', sans-serif;
 	font-size:12px;
 	margin-top:15%;
+}
+.artist_content_2 {
+	height: 100px;
+	width: 100%;
+	background-color: rgba(0,0,0,0);
+	margin-bottom:10%;
+	color:#7C7C7C;
+	text-decoration: none;
+	font-family: 'Roboto', sans-serif;
+	font-size:12px;
+	margin-top:15%;
+}
+.artist_content_3 {
+	height: 100px;
+	width: 100%;
+	background-color: rgba(0,0,0,0);
+	margin-bottom:50%;
+	color:#7C7C7C;
+	text-decoration: none;
+	font-family: 'Roboto', sans-serif;
+	font-size:12px;
+	margin-top:28%;
 }
 
 .news_feed {
@@ -433,7 +478,7 @@ li a:hover{
 	height: 100px;
 	width: auto;
 	background-color: rgba(0,0,0,0);
-	margin-top: 10%;
+	margin-top: 5%;
 	color:#B1B1B1;
 	text-decoration: none;
 	text-align: center;
