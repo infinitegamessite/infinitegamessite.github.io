@@ -348,6 +348,7 @@ p {
     text-decoration: none;
 }
 
+
 .artist_page_name:hover{
 	opacity:0.7;
 	text-decoration: none !important;
@@ -385,6 +386,18 @@ p {
 	font-family: 'Roboto', sans-serif;
 	font-size:12px;
 	margin-top:28%;
+}
+
+.artist_content_long {
+	height: 100px;
+	width: 100%;
+	background-color: rgba(0,0,0,0);
+	margin-bottom:75%;
+	color:#7C7C7C;
+	text-decoration: none;
+	font-family: 'Roboto', sans-serif;
+	font-size:12px;
+	margin-top:15%;
 }
 
 .news_feed {
