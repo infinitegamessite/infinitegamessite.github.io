@@ -73,7 +73,7 @@ li {
 }
 
 li a:visited {
-    color: #D0CDCD;
+    color:#8B8A8A;
 	text-decoration: none;
 }
 
@@ -84,7 +84,7 @@ li a:active {
 
 li a {
 	display: block;
-    color: #B1B1B1;
+    color:#8B8A8A;
     text-align: center;
     text-decoration: none;
 	font-family: 'Roboto', sans-serif;
@@ -110,7 +110,7 @@ p {
 	width: auto;
 	background-color: rgba(0,0,0,0);
 	margin-top: 10%;
-	color:#B1B1B1;
+	color:#8B8A8A;
 	text-decoration: none;
 	font-family: 'Roboto', sans-serif;
 	font-size:12px;
@@ -126,7 +126,7 @@ p {
 	width: 80%;
 	background-color: none;
 	margin-top:0;
-	color:#7C7C7C;
+	color:#8B8A8A;
 	text-decoration: none;
 	font-family: 'Roboto', sans-serif;
 	font-size:10px;
@@ -211,7 +211,7 @@ p {
 	width: auto;
 	background-color: rgba(0,0,0,0);
 	margin-top: 10%;
-	color:#B1B1B1;
+	color:#8B8A8A;
 	text-decoration: none;
 	font-family: 'Roboto', sans-serif;
 	font-size:12px;
@@ -224,7 +224,7 @@ p {
 }
 .artist_page_name_2{
 	background-color: rgba(0,0,0,0);
-	color:#B1B1B1;
+	color:#8B8A8A;
 	text-decoration: none;
 	text-align: center;
 	font-family: 'Roboto', sans-serif;
@@ -254,7 +254,7 @@ p {
 	width: 100%;
 	background-color: rgba(0,0,0,0);
 	margin-bottom:55%;
-	color:#7C7C7C;
+	color:#8B8A8A;
 	text-decoration: none;
 	font-family: 'Roboto', sans-serif;
 	font-size:10px;
@@ -265,7 +265,7 @@ p {
 	width: 100%;
 	background-color: rgba(0,0,0,0);
 	margin-bottom:10%;
-	color:#7C7C7C;
+	color:#8B8A8A;
 	text-decoration: none;
 	font-family: 'Roboto', sans-serif;
 	font-size:10px;
@@ -276,7 +276,7 @@ p {
 	width: 100%;
 	background-color: rgba(0,0,0,0);
 	margin-bottom:50%;
-	color:#7C7C7C;
+	color:#8B8A8A;
 	text-decoration: none;
 	font-family: 'Roboto', sans-serif;
 	font-size:10px;
@@ -288,7 +288,7 @@ p {
 	width: 100%;
 	background-color: rgba(0,0,0,0);
 	margin-bottom:75%;
-	color:#7C7C7C;
+	color:#8B8A8A;
 	text-decoration: none;
 	font-family: 'Roboto', sans-serif;
 	font-size:10px;
@@ -355,7 +355,7 @@ p {
 	width: auto;
 	margin-top:7%;
 	background-color: rgba(0,0,0,0);
-	color:#7C7C7C;
+	color:#8B8A8A;
 	text-decoration: none;
 	font-family: 'Roboto', sans-serif;
 	font-size:10px;
@@ -367,7 +367,7 @@ p {
 	width: auto;
 	background-color: rgba(0,0,0,0);
 	margin-top: 21%;
-	color:#B1B1B1;
+	color:#8B8A8A;
 	text-decoration: none;
 	text-align: center;
 	font-family: 'Roboto', sans-serif;
@@ -385,7 +385,7 @@ p {
 
 .links_text {
 	margin-top:1%;
-	color:#B1B1B1;
+	color:#8B8A8A;
 	text-decoration: none;
 	text-align: center;
 	font-family: 'Roboto', sans-serif;
@@ -405,7 +405,7 @@ p {
 	width: auto;
 	background-color: rgba(0,0,0,0);
 	margin-top: 5%;
-	color:#B1B1B1;
+	color:#8B8A8A;
 	text-decoration: none;
 	text-align: center;
 	font-family: 'Roboto', sans-serif;
@@ -468,7 +468,7 @@ li {
 }
 
 li a:visited {
-    color: #D0CDCD;
+    color:#8B8A8A;
 	text-decoration: none;
 }
 
@@ -479,7 +479,7 @@ li a:active {
 
 li a {
 	display: block;
-    color: #B1B1B1;
+    color:#8B8A8A;
     text-align: center;
     text-decoration: none;
 	font-family: 'Roboto', sans-serif;
@@ -505,7 +505,7 @@ p {
 	width: auto;
 	background-color: rgba(0,0,0,0);
 	margin-top: 10%;
-	color:#B1B1B1;
+	color:#8B8A8A;
 	text-decoration: none;
 	font-family: 'Roboto', sans-serif;
 	font-size:14px;
@@ -521,7 +521,7 @@ p {
 	width: 60%;
 	background-color: none;
 	margin-top: 15%;
-	color:#7C7C7C;
+	color:#8B8A8A;
 	text-decoration: none;
 	font-family: 'Roboto', sans-serif;
 	font-size:11px;
@@ -645,7 +645,7 @@ p {
 	width: 350px;
 	margin-top:3%;
 	background-color: rgba(0,0,0,0);
-	color:#7C7C7C;
+	color:#8B8A8A;
 	text-decoration: none;
 	font-family: 'Roboto', sans-serif;
 	font-size:12px;
@@ -656,7 +656,7 @@ p {
 	width: auto;
 	background-color: rgba(0,0,0,0);
 	margin-top: 21%;
-	color:#B1B1B1;
+	color:#8B8A8A;
 	text-decoration: none;
 	text-align: center;
 	font-family: 'Roboto', sans-serif;
@@ -674,7 +674,7 @@ p {
 
 .links_text {
 	margin-top:1%;
-	color:#B1B1B1;
+	color:#8B8A8A;
 	text-decoration: none;
 	text-align: center;
 	font-family: 'Roboto', sans-serif;
@@ -694,7 +694,7 @@ p {
 	width: auto;
 	background-color: rgba(0,0,0,0);
 	margin-top: 5%;
-	color:#B1B1B1;
+	color:#8B8A8A;
 	text-decoration: none;
 	text-align: center;
 	font-family: 'Roboto', sans-serif;
@@ -803,7 +803,7 @@ li {
 }
 
 li a:visited {
-    color: #D0CDCD;
+    color:#8B8A8A;
 	text-decoration: none;
 }
 
@@ -814,7 +814,7 @@ li a:active {
 
 li a {
 	display: block;
-    color: #B1B1B1;
+    color:#8B8A8A;
     text-align: center;
     text-decoration: none;
 	font-family: 'Roboto', sans-serif;
@@ -840,7 +840,7 @@ p {
 	width: auto;
 	background-color: rgba(0,0,0,0);
 	margin-top: 10%;
-	color:#B1B1B1;
+	color:#8B8A8A;
 	text-decoration: none;
 	font-family: 'Roboto', sans-serif;
 	font-size:20px;
@@ -856,7 +856,7 @@ p {
 	width: 60%;
 	background-color: none;
 	margin-top: 7%;
-	color:#7C7C7C;
+	color:#8B8A8A;
 	text-decoration: none;
 	font-family: 'Roboto', sans-serif;
 	font-size:12px;
@@ -963,7 +963,7 @@ p {
 	height: auto;
 	width: auto;
 	background-color: rgba(0,0,0,0);
-	color:#B1B1B1;
+	color:#8B8A8A;
 	text-decoration: none;
 	font-family: 'Roboto', sans-serif;
 	font-size:20px;
@@ -976,7 +976,7 @@ p {
 }
 .artist_page_name_2{
 	background-color: rgba(0,0,0,0);
-	color:#B1B1B1;
+	color:#8B8A8A;
 	text-decoration: none;
 	text-align: center;
 	font-family: 'Roboto', sans-serif;
@@ -1005,7 +1005,7 @@ p {
 	width: 100%;
 	background-color: rgba(0,0,0,0);
 	margin-bottom: 55%;
-	color: #7C7C7C;
+	color:#8B8A8A;
 	text-decoration: none;
 	font-family: 'Roboto', sans-serif;
 	font-size: 12px;
@@ -1016,7 +1016,7 @@ p {
 	width: 100%;
 	background-color: rgba(0,0,0,0);
 	margin-bottom:10%;
-	color:#7C7C7C;
+	color:#8B8A8A;
 	text-decoration: none;
 	font-family: 'Roboto', sans-serif;
 	font-size:12px;
@@ -1026,7 +1026,7 @@ p {
 	width: 100%;
 	background-color: rgba(0,0,0,0);
 	margin-bottom:50%;
-	color:#7C7C7C;
+	color:#8B8A8A;
 	text-decoration: none;
 	font-family: 'Roboto', sans-serif;
 	font-size:12px;
@@ -1037,7 +1037,7 @@ p {
 	width: 100%;
 	background-color: rgba(0,0,0,0);
 	margin-bottom:75%;
-	color:#7C7C7C;
+	color:#8B8A8A;
 	text-decoration: none;
 	font-family: 'Roboto', sans-serif;
 	font-size:12px;
@@ -1103,7 +1103,7 @@ p {
 	width: 450px;
 	margin-top:1.5%;
 	background-color: rgba(0,0,0,0);
-	color:#7C7C7C;
+	color:#8B8A8A;
 	text-decoration: none;
 	font-family: 'Roboto', sans-serif;
 	font-size:12px;
@@ -1114,7 +1114,7 @@ p {
 	width: auto;
 	background-color: rgba(0,0,0,0);
 	margin-top: 21%;
-	color:#B1B1B1;
+	color:#8B8A8A;
 	text-decoration: none;
 	text-align: center;
 	font-family: 'Roboto', sans-serif;
@@ -1132,7 +1132,7 @@ p {
 
 .links_text {
 	margin-top:1%;
-	color:#B1B1B1;
+	color:#8B8A8A;
 	text-decoration: none;
 	text-align: center;
 	font-family: 'Roboto', sans-serif;
@@ -1152,7 +1152,7 @@ p {
 	width: auto;
 	background-color: rgba(0,0,0,0);
 	margin-top: 5%;
-	color:#B1B1B1;
+	color:#8B8A8A;
 	text-decoration: none;
 	text-align: center;
 	font-family: 'Roboto', sans-serif;
