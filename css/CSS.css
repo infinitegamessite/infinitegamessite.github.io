@@ -115,7 +115,7 @@ img, object, embed, video {
 
 
 .gridContainer {
-	width: 88.5%;
+	width: 70%;
 	max-width: 1232px;
 	padding-left: 0.75px;
 	padding-right: 0.75%;
@@ -146,7 +146,6 @@ ul {
 	list-style-type: none;
 	text-decoration: none;
 	margin: 0;
-	padding-left: 57%;
 	padding-bottom: 0;
 	overflow: hidden;
 	padding-top: 9%;
@@ -156,8 +155,8 @@ ul {
 }
 
 li {
-	margin-left: 11%;
-	float: left;
+	margin-left: 5%;
+	float: right;
 }
 
 li a:visited {
@@ -197,15 +196,16 @@ p {
 	height: auto;
 	width: auto;
 	background-color: rgba(0,0,0,0);
-	margin-top: 8%;
+	margin-top: 10%;
 	color:#B1B1B1;
 	text-decoration: none;
-	text-align: center;
 	font-family: 'Roboto', sans-serif;
-	font-size:28px;
+	font-size:20px;
 	margin-right: auto;
+	text-align:left;
     margin-left: auto;
 	position: center;
+	margin-bottom:1%;
 }
 
 .about_content{
@@ -221,8 +221,15 @@ p {
 	margin-left:auto;
 	margin-right:auto;
 	border:hidden;
-	margin-bottom:45%;
 }
+.about_text {
+	margin-bottom:20%;
+}
+
+
+.about_img {
+}
+
 
 .img_gallery {
 	width:auto;
