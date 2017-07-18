@@ -73,7 +73,7 @@ li {
 }
 
 li a:visited {
-    color:#8B8A8A;
+    color:#B7B7B7;
 	text-decoration: none;
 }
 
@@ -84,7 +84,7 @@ li a:active {
 
 li a {
 	display: block;
-    color:#8B8A8A;
+    color:#B7B7B7;
     text-align: center;
     text-decoration: none;
 	font-family: 'Roboto', sans-serif;
@@ -184,6 +184,15 @@ p {
    text-align:center;
    font-family: 'Roboto', sans-serif;
 }
+
+.desc_1 {
+   padding:30px;
+   font-size: 12px;
+   color:#8B8A8A;
+   text-align:center;
+   font-family: 'Roboto', sans-serif;
+}
+
 
 
 
@@ -468,7 +477,7 @@ li {
 }
 
 li a:visited {
-    color:#8B8A8A;
+    color:#B7B7B7;
 	text-decoration: none;
 }
 
@@ -479,7 +488,7 @@ li a:active {
 
 li a {
 	display: block;
-    color:#8B8A8A;
+    color:#B7B7B7;
     text-align: center;
     text-decoration: none;
 	font-family: 'Roboto', sans-serif;
@@ -592,6 +601,15 @@ p {
    font-size: 11px;
    color:#8B8A8A;
    text-align:center;
+   font-family: 'Roboto', sans-serif;
+}
+
+.desc_1 {
+   padding-top:7%;
+   padding-bottom:7%;
+   font-size: 11px;
+   color:#8B8A8A;
+   float:left;
    font-family: 'Roboto', sans-serif;
 }
 
@@ -745,22 +763,27 @@ p {
     from { opacity: 0; }
     to   { opacity: 1; }
 }
+
 @-moz-keyframes fadein {
     from { opacity: 0; }
     to   { opacity: 1; }
 }
+
 @-webkit-keyframes fadein {
     from { opacity: 0; }
     to   { opacity: 1; }
 }
+
 @-ms-keyframes fadein {
     from { opacity: 0; }
     to   { opacity: 1; }
 }
+
 @-o-keyframes fadein {
     from { opacity: 0; }
     to   { opacity: 1; }
 }
+
 /*Fade In On Load*/
 	
 
@@ -780,8 +803,6 @@ p {
      -ms-animation: fadein 1s; /* Internet Explorer */
      -o-animation: fadein 1s; /* Opera < 12.1 */
      animation: fadein 1s;
-			
-	
 }
 
 .div1 {
@@ -813,7 +834,7 @@ li {
 }
 
 li a:visited {
-    color:#8B8A8A;
+    color:#B7B7B7;
 	text-decoration: none;
 }
 
@@ -824,7 +845,7 @@ li a:active {
 
 li a {
 	display: block;
-    color:#8B8A8A;
+    color:#B7B7B7;
     text-align: center;
     text-decoration: none;
 	font-family: 'Roboto', sans-serif;
@@ -894,6 +915,15 @@ p {
    font-size: 12px;
    color:#8B8A8A;
    text-align:center;
+   font-family: 'Roboto', sans-serif;
+}
+
+.desc_1 {
+   padding-top:7%;
+   padding-bottom:7%;
+   font-size: 12px;
+   color:#8B8A8A;
+   float:left;
    font-family: 'Roboto', sans-serif;
 }
 
@@ -1200,4 +1230,4 @@ p {
     display: none;
 }
 
-}
+
