@@ -260,49 +260,17 @@ p {
 
 .artist_content {
 	height: 100px;
-	width: 100%;
+	width: auto;
 	background-color: rgba(0,0,0,0);
-	margin-bottom:55%;
+	margin-bottom:20px;
 	color:#8B8A8A;
 	text-decoration: none;
 	font-family: 'Roboto', sans-serif;
 	font-size:10px;
 	margin-top:5%;
 }
-.artist_content_2 {
-	height: 100px;
-	width: 100%;
-	background-color: rgba(0,0,0,0);
-	margin-bottom:10%;
-	color:#8B8A8A;
-	text-decoration: none;
-	font-family: 'Roboto', sans-serif;
-	font-size:10px;
-	margin-top:15%;
-}
-.artist_content_3 {
-	height: 100px;
-	width: 100%;
-	background-color: rgba(0,0,0,0);
-	margin-bottom:50%;
-	color:#8B8A8A;
-	text-decoration: none;
-	font-family: 'Roboto', sans-serif;
-	font-size:10px;
-	margin-top:28%;
-}
 
-.artist_content_long {
-	height: 100px;
-	width: 100%;
-	background-color: rgba(0,0,0,0);
-	margin-bottom:75%;
-	color:#8B8A8A;
-	text-decoration: none;
-	font-family: 'Roboto', sans-serif;
-	font-size:10px;
-	margin-top:15%;
-}
+
 
 
 .news_feed {
@@ -613,6 +581,9 @@ p {
    font-family: 'Roboto', sans-serif;
 }
 
+.artist_page_block {
+	margin-bottom:20%;
+}
 
 .news_feed {
 	width:80%;
@@ -991,7 +962,6 @@ p {
 	margin-left: auto;
 }
 
-
 .artist_page_img {
 	width:700px;
 	height:auto;
@@ -1014,23 +984,9 @@ p {
 	text-align:left;
 	
 }
-.artist_page_name_2{
-	background-color: rgba(0,0,0,0);
-	color:#8B8A8A;
-	text-decoration: none;
-	text-align: center;
-	font-family: 'Roboto', sans-serif;
-	font-size:20px;
-	margin-top:10%;
-	width:auto;
-	height:100%;
-}
+
 
 .artist_page_name:hover, a:visited, a:link, a:active {
-    text-decoration: none;
-}
-
-.artist_page_name_2:hover, a:visited, a:link, a:active {
     text-decoration: none;
 }
 
@@ -1041,8 +997,7 @@ p {
 }
 
 .artist_page_block {
-	
-	
+	margin-bottom:25%;
 	}
 
 .artist_content {
@@ -1054,38 +1009,9 @@ p {
 	font-family: 'Roboto', sans-serif;
 	font-size: 12px;
 	margin-top: 0.3%;
-}
-.artist_content_2 {
-	height: 100px;
-	width: 100%;
-	background-color: rgba(0,0,0,0);
-	color:#8B8A8A;
-	text-decoration: none;
-	font-family: 'Roboto', sans-serif;
-	font-size:12px;
-}
-.artist_content_3 {
-	height: 100px;
-	width: 100%;
-	background-color: rgba(0,0,0,0);
-	margin-bottom:50%;
-	color:#8B8A8A;
-	text-decoration: none;
-	font-family: 'Roboto', sans-serif;
-	font-size:12px;
+	margin-bottom:auto;
 }
 
-.artist_content_long {
-	height: 100px;
-	width: 100%;
-	background-color: rgba(0,0,0,0);
-	margin-bottom:75%;
-	color:#8B8A8A;
-	text-decoration: none;
-	font-family: 'Roboto', sans-serif;
-	font-size:12px;
-	margin-top:15%;
-}
 
 .news_feed {
 	width:80%;
